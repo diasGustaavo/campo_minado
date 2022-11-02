@@ -1,16 +1,13 @@
-# campo_minado
+# Campo Minado
 
-A new Flutter project.
+Um jogo de campo minado feito com Flutter.
 
-## Getting Started
+![Captura2](https://user-images.githubusercontent.com/60455369/199591205-2da908fa-09a1-4bfd-a47e-7b0052d76823.PNG)
+![Captura1](https://user-images.githubusercontent.com/60455369/199591209-1c729029-231f-4f8d-b2cf-b7b27bd7805c.PNG)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Running Instructions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To run this app on a machine with flutter installed, just run the following code on your terminal:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```flutter run```
